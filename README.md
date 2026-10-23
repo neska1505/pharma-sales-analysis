@@ -39,6 +39,6 @@ These findings suggest that respiratory drug sales may exhibit seasonal patterns
 - The yearly analysis showed that total sales across the eight categories were highest in 2016, at approximately 25,234.93 units, compared with 20,238.34 units in 2014. Total sales declined to 19,399.37 units in 2017, recovered to 22,884.56 units in 2018, and fell to 17,085.96 units in 2019.
 
 CONCLUSION
-The analysis identified N02BE as the dominant ATC category in cumulative sales, average daily sales, the selected monthly periods, and annual sales for 2017. N05B consistently ranked among the top-selling categories, while R03 displayed noticeable monthly variations, with December recording the highest average daily sales and July the lowest.
+- The analysis identified N02BE as the dominant ATC category in cumulative sales, average daily sales, the selected monthly periods, and annual sales for 2017. N05B consistently ranked among the top-selling categories, while R03 displayed noticeable monthly variations, with December recording the highest average daily sales and July the lowest.
 
 
