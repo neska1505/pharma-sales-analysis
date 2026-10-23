@@ -44,4 +44,5 @@ These findings suggest that respiratory drug sales may exhibit seasonal patterns
 CONCLUSION
 - The analysis identified N02BE as the dominant ATC category in cumulative sales, average daily sales, the selected monthly periods, and annual sales for 2017. N05B consistently ranked among the top-selling categories, while R03 displayed noticeable monthly variations, with December recording the highest average daily sales and July the lowest.
 
+https://roadmap.sh/projects/pharmaceutical-sales-data
 
