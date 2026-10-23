@@ -1,6 +1,9 @@
 # pharma-sales-analysis
 The objective of this project was to explore drug sales volumes, identify top-performing drug brands and ATC categories, and analyze sales trends over time using python.
 
+Click the link below to view my project:
+https://colab.research.google.com/drive/1YUbn1DybDxNx0p1rSFATaNWv2USF3Nar?usp=sharing
+
 Dataset: Pharma Sales Data
 Rows: 2107
 Columns: 13
